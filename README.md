@@ -1,0 +1,2 @@
+# .github
+SnowflakeOSS HQ
